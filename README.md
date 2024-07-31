@@ -23,7 +23,7 @@ I tackle challenges with a mix of curiosity and humility, knowing there's always
 <h2>My Toolkit 🔭</h2>
 Languages: Python, Java, GoLang, SQL, jQuery, JavaScript, HTML, CSS<br><br>
 Stacks: SpringMVC, Go-Fiber, Flask<br><br>
-Tools & Tech I've worked with: Docker, AWS (SNS, S3), Redis, Elasticsearch, Apache Solr, Firebase, JWT JDBC, PyMongo, GORM, MongoDB, PostgreSQL
+Tools & Tech I've worked with: Docker, AWS, Redis, Elasticsearch, Apache Solr, Firebase, JWT JDBC, PyMongo, GORM, MongoDB, PostgreSQL
 
 <p style="font-weight:bold;" align="center">
 <h2>Fun Fact ⚡</h2>
