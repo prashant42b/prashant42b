@@ -13,14 +13,14 @@ I’m a tech enthusiast with a knack for turning coffee into code. I graduated f
 Since then, I've expanded into the fast-paced startup and consulting world. I thrive on taking end-to-end ownership of projects and architecting solutions built for high performance and scalability. And with Peritys, I delivered scalable, production-grade systems.
 
 ## 🌟 Featured: My Portfolio
-**Check out my interactive portfolio website!** 
-<div align="left">
+<p align="center"><b>Check out my interactive portfolio website!</b></p>
+<div align="center">
   <a href="https://prashant42b.vercel.app" target="_blank">
     <img src="images/portfolio_screenshot.jpg" alt="Portfolio Preview" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   </a>
   <br>
-  <a href="https://prashant42b.vercel.app" target="_blank">🚀 Click here to visit</a>
 </div>
+<a href="https://prashant42b.vercel.app" target="_blank">🚀 Visit: prashant42b.vercel.app</a>
 <br>
 
 ## 💼 Experience Highlights
