@@ -44,8 +44,9 @@ I tackle challenges with a mix of curiosity and humility, knowing there's always
 ## ⚡ Fun Fact
 Until Jan 2024, I didn't even know how to use version-control (Git/GitHub), and since then it has been a journey of intense hands-on learning with real stakes. Looking back it's crazy to think about the amount of skills of varying nature that I've come to learn, experiment and enjoy building on. Boy, it's been a ride.
 
+
 ## 💬 Hit me up!
-If you're a developer 💻, feel free to reach out if you'd like to discuss tech, coding, or just share ideas. I'm always up for a good conversation and learning from diverse perspectives.
+If you're a developer 💻, feel free to reach out if you'd like to discuss tech, coding, or just share ideas. I'm always up for a good conversation, learning from diverse perspectives, or connecting on [LinkedIn](https://www.linkedin.com/in/prashant42b/).
 
 <br>
 
